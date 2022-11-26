@@ -12,7 +12,7 @@ This task about Customer map that we can add, update, delete customer to map or 
   ```
   mvn clean install
   ```
-* Open Tomcate and deploythe war file
+* Open Tomcate and deploy the war file
 * Open anybrowser or Postman to use any endpoint to test the task 
 
 
