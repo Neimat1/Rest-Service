@@ -20,3 +20,7 @@ This task about Customer map that we can add, update, delete customer to map or 
 * Tomcat version 10
 * JDK 11
 * basic path http://localhost:8080/RestServiceTask/webapi/
+
+#### Resources:
+* https://mkyong.com/webservices/jax-rs/restful-java-client-with-jersey-client/
+* http://javainsimpleway.com/restful-java-client-with-jersey-client-and-server/
